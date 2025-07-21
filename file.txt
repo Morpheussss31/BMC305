@@ -1,6 +1,8 @@
-HI guys 
+HI guys Im John Rey Sabdao/ 3rdYear College Student
 
 Hello git status
 Hello git version 3
 
 manual merging 
+
+Fixing Commit Error
