@@ -1,6 +1,8 @@
-HI guys 
+HI guys Im John Rey Sabdao
+I would to know what may error
 
 Hello git status
 Hello git version 3
 
 manual merging 
+fixing common merging error 
